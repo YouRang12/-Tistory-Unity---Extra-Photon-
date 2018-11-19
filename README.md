@@ -17,3 +17,5 @@
 [Unity]05.포톤2를 활용한 탱크 게임 만들기 - 포톤환경 구성하기 => (https://goo.gl/evw7BF)
 
 [Unity]06.포톤2를 활용한 탱크 게임 만들기 - 탱크 공격 구현하기 => (https://goo.gl/7JL5Wg)
+
+[Unity]07.포톤2를 활용한 탱크 게임 만들기 - 포톤 연동하기 => (https://goo.gl/b7qUBa)
