@@ -20,7 +20,7 @@
 
 [Unity]07.포톤2를 활용한 탱크 게임 만들기 - 포톤 연동하기 => (https://goo.gl/b7qUBa)
 
-[Unity]08.포톤2를 활용한 탱크 게임 만들기 - Hp바 만들기 => (https://goo.gl/G9oEsH)
+[Unity]08.포톤2를 활용한 탱크 게임 만들기 - Hp바 만들기 => (https://goo.gl/4XD9iS)
 
 [Unity]09.포톤2를 활용한 탱크 게임 만들기 - 채팅 하기 => 
 
