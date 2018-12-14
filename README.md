@@ -24,7 +24,7 @@
 
 [Unity]09.포톤2를 활용한 탱크 게임 만들기 - 채팅 하기 => (https://goo.gl/Xtfdx7)
 
-[Unity]10.포톤2를 활용한 탱크 게임 만들기 - 방 여러 개 만들기 =>
+[Unity]10.포톤2를 활용한 탱크 게임 만들기 - 방 여러 개 만들기 => (https://goo.gl/Dm3qs2)
 
 [Unity]11.포톤 RPG 만들기 - 한 번 보고 따라하기 => (https://goo.gl/PRD2rk)
 
